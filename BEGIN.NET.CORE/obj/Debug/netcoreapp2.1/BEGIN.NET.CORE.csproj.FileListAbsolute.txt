@@ -1,0 +1,5 @@
+C:\Users\gabriel\Desktop\Github\BEGIN.NET.CORE\BEGIN.NET.CORE\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\gabriel\Desktop\Github\BEGIN.NET.CORE\BEGIN.NET.CORE\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\gabriel\Desktop\Github\BEGIN.NET.CORE\BEGIN.NET.CORE\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\gabriel\Desktop\Github\BEGIN.NET.CORE\BEGIN.NET.CORE\obj\Debug\netcoreapp2.1\BEGIN.NET.CORE.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\Github\BEGIN.NET.CORE\BEGIN.NET.CORE\obj\Debug\netcoreapp2.1\BEGIN.NET.CORE.AssemblyInfo.cs
