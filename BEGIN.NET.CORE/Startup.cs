@@ -48,6 +48,7 @@ namespace BEGIN.NET.CORE
                 app.UseHsts();
             }
 
+            app.UseMeuMiddler();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();

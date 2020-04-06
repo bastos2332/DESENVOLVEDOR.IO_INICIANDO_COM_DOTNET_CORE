@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "BEGIN.NET.CORE": {
+    "DEV HOSTING": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
